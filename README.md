@@ -1,0 +1,2 @@
+# OkulKayit
+ Okul Kayıt Paneli
